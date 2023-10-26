@@ -1,0 +1,1788 @@
+fileFormatVersion: 2
+guid: 2c0078eb7b872684d8f87181d11dcdb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5519535842408559052
+    second: FemaleNPCForTesting_Up_Idle
+  - first:
+      213: 5261629469596455152
+    second: FemaleNPCForTesting_Down_Idle
+  - first:
+      213: -2047677287432523105
+    second: FemaleNPCForTesting_Left_Idle
+  - first:
+      213: -4946858899727892067
+    second: FemaleNPCForTesting_Right_Idle
+  - first:
+      213: 4121536433696769485
+    second: FemaleNPCForTesting_Up_Walk_0
+  - first:
+      213: 4092580368575400216
+    second: FemaleNPCForTesting_Down_Walk_0
+  - first:
+      213: -1472474319568921243
+    second: FemaleNPCForTesting_Left_Walk_0
+  - first:
+      213: -5017095271389516386
+    second: FemaleNPCForTesting_Right_Walk_0
+  - first:
+      213: -8599746124312069978
+    second: FemaleNPCForTesting_Up_Walk_1
+  - first:
+      213: 7543306392955217969
+    second: FemaleNPCForTesting_Down_Walk_1
+  - first:
+      213: 6747406635329266691
+    second: FemaleNPCForTesting_Left_Walk_1
+  - first:
+      213: -8248309609855730385
+    second: FemaleNPCForTesting_Right_Walk_1
+  - first:
+      213: -9041069287134366534
+    second: FemaleNPCForTesting_Up_Run_0
+  - first:
+      213: 3479805536321896985
+    second: FemaleNPCForTesting_Down_Run_0
+  - first:
+      213: -8176178527223141914
+    second: FemaleNPCForTesting_Left_Run_0
+  - first:
+      213: -5132342045273641917
+    second: FemaleNPCForTesting_Right_Run_0
+  - first:
+      213: 2579720365767505930
+    second: FemaleNPCForTesting_Up_Run_1
+  - first:
+      213: -4073665956195088804
+    second: FemaleNPCForTesting_Down_Run_1
+  - first:
+      213: 5847420932194038332
+    second: FemaleNPCForTesting_Left_Run_1
+  - first:
+      213: -4897201892121843228
+    second: FemaleNPCForTesting_Right_Run_1
+  - first:
+      213: 6206219283613664446
+    second: FemaleNPCForTesting_Up_Run_2
+  - first:
+      213: -8659976238302143089
+    second: FemaleNPCForTesting_Down_Run_2
+  - first:
+      213: -4586266851750005348
+    second: FemaleNPCForTesting_Left_Run_2
+  - first:
+      213: 9129169872110357668
+    second: FemaleNPCForTesting_Right_Run_2
+  - first:
+      213: 7436144290366380829
+    second: FemaleNPCForTesting_Up_Bike_0
+  - first:
+      213: 3708102860124416862
+    second: FemaleNPCForTesting_Down_Bike_0
+  - first:
+      213: 2501368870470059600
+    second: FemaleNPCForTesting_Left_Bike_0
+  - first:
+      213: -9147696095088979219
+    second: FemaleNPCForTesting_Right_Bike_0
+  - first:
+      213: 7540404269607047127
+    second: FemaleNPCForTesting_Up_Bike_1
+  - first:
+      213: -3977442516833639739
+    second: FemaleNPCForTesting_Down_Bike_1
+  - first:
+      213: -6323250220083570571
+    second: FemaleNPCForTesting_Left_Bike_1
+  - first:
+      213: 6611400661680771030
+    second: FemaleNPCForTesting_Right_Bike_1
+  - first:
+      213: -5973619955079664735
+    second: FemaleNPCForTesting_Up_Bike_2
+  - first:
+      213: 7254507987560472241
+    second: FemaleNPCForTesting_Down_Bike_2
+  - first:
+      213: -902745541239188941
+    second: FemaleNPCForTesting_Left_Bike_2
+  - first:
+      213: -7451762804652842287
+    second: FemaleNPCForTesting_Right_Bike_2
+  - first:
+      213: -404310087859658475
+    second: FemaleNPCForTesting_Up_Bike_3
+  - first:
+      213: -8251596777607141131
+    second: FemaleNPCForTesting_Down_Bike_3
+  - first:
+      213: 1498911564131344289
+    second: FemaleNPCForTesting_Left_Bike_3
+  - first:
+      213: 6830420865677374039
+    second: FemaleNPCForTesting_Right_Bike_3
+  - first:
+      213: -1067188315635821204
+    second: FemaleNPCForTesting_Up_Surf
+  - first:
+      213: 580586583646236957
+    second: FemaleNPCForTesting_Down_Surf
+  - first:
+      213: -5124866584833360013
+    second: FemaleNPCForTesting_Left_Surf
+  - first:
+      213: -7963460965084643576
+    second: FemaleNPCForTesting_Right_Surf
+  - first:
+      213: -4784190820642080064
+    second: FemaleNPCForTesting_Up_Fish_0
+  - first:
+      213: -8111651985592909065
+    second: FemaleNPCForTesting_Down_Fish_0
+  - first:
+      213: -2707949886703482303
+    second: FemaleNPCForTesting_Left_Fish_0
+  - first:
+      213: -7945560342924234422
+    second: FemaleNPCForTesting_Right_Fish_0
+  - first:
+      213: 357394256839690294
+    second: FemaleNPCForTesting_Up_Fish_1
+  - first:
+      213: -7810698206633274824
+    second: FemaleNPCForTesting_Down_Fish_1
+  - first:
+      213: -8776198373236951036
+    second: FemaleNPCForTesting_Left_Fish_1
+  - first:
+      213: -2864968575382970463
+    second: FemaleNPCForTesting_Right_Fish_1
+  - first:
+      213: 7275968549319814162
+    second: FemaleNPCForTesting_Up_Fish_2
+  - first:
+      213: -1464899805876598600
+    second: FemaleNPCForTesting_Down_Fish_2
+  - first:
+      213: -5340203717975866872
+    second: FemaleNPCForTesting_Left_Fish_2
+  - first:
+      213: 2291577545256495527
+    second: FemaleNPCForTesting_Right_Fish_2
+  - first:
+      213: -7231821695546112067
+    second: FemaleNPCForTesting_Up_Fish_3
+  - first:
+      213: -4415918476473174092
+    second: FemaleNPCForTesting_Down_Fish_3
+  - first:
+      213: 7798499810221249007
+    second: FemaleNPCForTesting_Left_Fish_3
+  - first:
+      213: 4890486381702404199
+    second: FemaleNPCForTesting_Right_Fish_3
+  - first:
+      213: -3022105859922206980
+    second: FemaleNPCForTesting_HM_0
+  - first:
+      213: 3246385167165305377
+    second: FemaleNPCForTesting_HM_1
+  - first:
+      213: 5453608714952353188
+    second: FemaleNPCForTesting_HM_2
+  - first:
+      213: 6036893067943125399
+    second: FemaleNPCForTesting_HM_3
+  - first:
+      213: -693176071195885282
+    second: FemaleNPCForTesting_Item_0
+  - first:
+      213: 3171282490277956003
+    second: FemaleNPCForTesting_Item_1
+  - first:
+      213: -6618570733465536198
+    second: FemaleNPCForTesting_Left_BikeJump_0
+  - first:
+      213: -1147622193240302448
+    second: FemaleNPCForTesting_Left_BikeJump_1
+  - first:
+      213: -2054274590434249172
+    second: FemaleNPCForTesting_Right_BikeJump_0
+  - first:
+      213: -4526891236357990580
+    second: FemaleNPCForTesting_Right_BikeJump_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Up_Idle
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 150
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc17ccbda94599c40800000000000000
+      internalID: 5519535842408559052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Down_Idle
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f016031020150940800000000000000
+      internalID: 5261629469596455152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_Idle
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92f2fb2b503593e0800000000000000
+      internalID: -2047677287432523105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_Idle
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d914dbf4a0a395bb0800000000000000
+      internalID: -4946858899727892067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Up_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 150
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc58353bc83a23930800000000000000
+      internalID: 4121536433696769485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Down_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8198cab6924cbc830800000000000000
+      internalID: 4092580368575400216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d95396868b09be0800000000000000
+      internalID: -1472474319568921243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d2980be62bf5ab0800000000000000
+      internalID: -5017095271389516386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Up_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 150
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a836dd967097a880800000000000000
+      internalID: -8599746124312069978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Down_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1386700c2353fa860800000000000000
+      internalID: 7543306392955217969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3042ae5e59a93ad50800000000000000
+      internalID: 6747406635329266691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dbb1b7c1e188d80800000000000000
+      internalID: -8248309609855730385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Up_Run_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 150
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab479ae826ba78280800000000000000
+      internalID: -9041069287134366534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Down_Run_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91287efc2b0ca4030800000000000000
+      internalID: 3479805536321896985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_Run_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e920b0e2f0688e80800000000000000
+      internalID: -8176178527223141914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_Run_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ca9a52a1246c8b0800000000000000
+      internalID: -5132342045273641917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Up_Run_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08b96531020dc320800000000000000
+      internalID: 2579720365767505930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Down_Run_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56c363656e6777c0800000000000000
+      internalID: -4073665956195088804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_Run_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32fb9b5b56362150800000000000000
+      internalID: 5847420932194038332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_Run_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9e4ba53d4a90cb0800000000000000
+      internalID: -4897201892121843228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Up_Run_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 150
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4c8f57e8be02650800000000000000
+      internalID: 6206219283613664446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Down_Run_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d5da86e7591d780800000000000000
+      internalID: -8659976238302143089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_Run_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95ba40f89e4a50c0800000000000000
+      internalID: -4586266851750005348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_Run_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac065951a351be70800000000000000
+      internalID: 9129169872110357668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Up_Bike_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 150
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b56dd65dd723760800000000000000
+      internalID: 7436144290366380829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Down_Bike_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b6358a7e3d57330800000000000000
+      internalID: 3708102860124416862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_Bike_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05686902cb5a6b220800000000000000
+      internalID: 2501368870470059600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_Bike_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de25efa3edadc0180800000000000000
+      internalID: -9147696095088979219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Up_Bike_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 150
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df44c08bb5e4a860800000000000000
+      internalID: 7540404269607047127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Down_Bike_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c26895ba194dc8c0800000000000000
+      internalID: -3977442516833639739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_Bike_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57812064d6d4f38a0800000000000000
+      internalID: -6323250220083570571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_Bike_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfc3438fd960cb50800000000000000
+      internalID: 6611400661680771030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Up_Bike_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 150
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abaa4aec40791da0800000000000000
+      internalID: -5973619955079664735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Down_Bike_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be96c224903da460800000000000000
+      internalID: 7254507987560472241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_Bike_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332ded396bdc873f0800000000000000
+      internalID: -902745541239188941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_Bike_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2e236d535069890800000000000000
+      internalID: -7451762804652842287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Up_Bike_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 150
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511a4020e1a936af0800000000000000
+      internalID: -404310087859658475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Down_Bike_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8e7f813707c7d80800000000000000
+      internalID: -8251596777607141131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_Bike_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af16c140243dc410800000000000000
+      internalID: 1498911564131344289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_Bike_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752bd1596978ace50800000000000000
+      internalID: 6830420865677374039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Up_Surf
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 150
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65541291e59031f0800000000000000
+      internalID: -1067188315635821204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Down_Surf
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d117797fb68ae0800800000000000000
+      internalID: 580586583646236957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_Surf
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ffcb96ef0d0e8b0800000000000000
+      internalID: -5124866584833360013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_Surf
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fb079c17a1c7190800000000000000
+      internalID: -7963460965084643576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Up_Fish_0
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 150
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cab1fddbc32b9db0800000000000000
+      internalID: -4784190820642080064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Down_Fish_0
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f284291f7f9d6f80800000000000000
+      internalID: -8111651985592909065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_Fish_0
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14aca75eced6b6ad0800000000000000
+      internalID: -2707949886703482303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_Fish_0
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41f19a27f2bbb190800000000000000
+      internalID: -7945560342924234422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Up_Fish_1
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 150
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638c1bbde28b5f400800000000000000
+      internalID: 357394256839690294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Down_Fish_1
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832d7d92d53da9390800000000000000
+      internalID: -7810698206633274824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_Fish_1
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408b9dce31ea43680800000000000000
+      internalID: -8776198373236951036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_Fish_1
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af14ab82469d38d0800000000000000
+      internalID: -2864968575382970463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Up_Fish_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 150
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c2f1b88de69f460800000000000000
+      internalID: 7275968549319814162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Down_Fish_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8cf2f4361ababe0800000000000000
+      internalID: -1464899805876598600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_Fish_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80204d91309c3e5b0800000000000000
+      internalID: -5340203717975866872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_Fish_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a96648d2a15dcf10800000000000000
+      internalID: 2291577545256495527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Up_Fish_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 150
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7c206db7863ab90800000000000000
+      internalID: -7231821695546112067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Down_Fish_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 117
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b77bbcca8187b2c0800000000000000
+      internalID: -4415918476473174092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_Fish_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe150395246d93c60800000000000000
+      internalID: 7798499810221249007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_Fish_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 51
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768d148047f7ed340800000000000000
+      internalID: 4890486381702404199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_HM_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfed5b17bb25f06d0800000000000000
+      internalID: -3022105859922206980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_HM_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1223cf40c1a7d0d20800000000000000
+      internalID: 3246385167165305377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_HM_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5a5b65b3c1fab40800000000000000
+      internalID: 5453608714952353188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_HM_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791a4cda24a57c350800000000000000
+      internalID: 6036893067943125399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Item_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11819d29085166f0800000000000000
+      internalID: -693176071195885282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Item_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a90f6b6f98a20c20800000000000000
+      internalID: 3171282490277956003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_BikeJump_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a397dfe0cfc1624a0800000000000000
+      internalID: -6618570733465536198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Left_BikeJump_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c9e8312b3d210f0800000000000000
+      internalID: -1147622193240302448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_BikeJump_0
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c263e0ed420cd73e0800000000000000
+      internalID: -2054274590434249172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FemaleNPCForTesting_Right_BikeJump_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c479d00b7604d21c0800000000000000
+      internalID: -4526891236357990580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
